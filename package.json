@@ -1,10 +1,10 @@
 {
-  "name": "flyve-mdm-blackberry-inventory",
+  "name": "blackberry-library-inventory",
   "version": "1.0.0",
   "description": "Branch created with the intention of functioning as an introduction web site of the project, a small point of entry where anyone can find out what it is about and to be able to get relevant information.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory.git"
+    "url": "git+https://github.com/flyve-mdm/blackberry-library-inventory.git"
   },
   "sasslintConfig": ".sass-lint.yml",
   "scripts": {
@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory/issues"
+    "url": "https://github.com/flyve-mdm/blackberry-library-inventory/issues"
   },
-  "homepage": "https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory#readme",
+  "homepage": "https://github.com/flyve-mdm/blackberry-library-inventory#readme",
   "devDependencies": {
     "eslint": "^4.7.2",
     "eslint-config-google": "^0.9.1",
